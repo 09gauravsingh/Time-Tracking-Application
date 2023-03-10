@@ -1,0 +1,15 @@
+.table {
+  width: 100%;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+}
+
+.table-body {
+  max-width: 80%;
+  overflow: visible;
+}
+
+.wrap {
+  max-width: 200px;
+  white-space: pre-wrap;
+}
